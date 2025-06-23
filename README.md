@@ -61,7 +61,7 @@ The BusinessDirectoryApp is a modern Android application that functions as a **b
 
 | Main Screen (Tabs) | Add Company Form | Company List |
 |--------------------|------------------|--------------|
-| ![Main](screenshots/main_tabs.png) | ![Form](screenshots/add_form.png) | ![List](screenshots/company_list.png) |
+| ![Main](picures/1.png) | ![Form](picures/2.png) | ![List](picures/3.png) |
 
 ---
 
