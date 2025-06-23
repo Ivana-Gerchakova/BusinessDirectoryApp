@@ -61,9 +61,18 @@ The BusinessDirectoryApp is a modern Android application that functions as a **b
 
 | Main Screen (Tabs) | Add Company Form | Company List |
 |--------------------|------------------|--------------|
-| ![Main](picures/1.png) | ![Form](picures/2.png) | ![List](picures/3.png) |
+| ![Main](picures/1.jpg) | ![Form](picures/2.jpg) | ![List](picures/3.jpg) |
 
----
+
+### 🗂️ Category Tabs
+
+| Services Tab | Industry Tab | Entertainment Tab |
+|--------------|--------------|-------------------|
+| ![Services](picures/4.jpg) | ![Industry](picures/6.jpg) | ![Entertainment](picures/5.jpg) |
+
+| Education Tab | Nearby Location Notification |
+|----------------|------------------------------|
+| ![Education](picures/7.jpg) | ![Notification](picures/8.jpg) |
 
 ## 🎥 Demo Video
 
