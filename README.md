@@ -74,7 +74,7 @@ The BusinessDirectoryApp is a modern Android application that functions as a **b
 |----------------|------------------------------|
 | ![Education](picures/7.jpg) | ![Notification](picures/8.jpg) |
 
-## 🎥 Demo Video
+## 🎥 Demo Video (https://github.com/Ivana-Gerchakova/BusinessDirectoryApp/raw/main/Demo%20video-app.mp4)
 
 🔗 [Click here to watch the demo video](PUT_YOUR_LINK_HERE)
 
