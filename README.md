@@ -2,8 +2,8 @@
 
 📱 **Android Mobile Application – Business Directory**
 
-This application was developed as a **master's project** for the subject 
-**“Development of Applications for Mobile and Embedded Devices”**
+This application was developed as a **master's project** for the subject  
+**“Development of Applications for Mobile and Embedded Devices”**  
 
 The goal of this project is to demonstrate knowledge and skills in:
 - Designing intuitive user interfaces for mobile devices
@@ -13,17 +13,18 @@ The goal of this project is to demonstrate knowledge and skills in:
 - Integrating location-based services
 - Following best practices in mobile development using Java and Android Studio
 
+---
 
 ## ✨ Application Overview
 
-The BusinessDirectoryApp is a modern Android application that functions as a **business directory**, allowing users to browse and register companies grouped into four categories:
+The **BusinessDirectoryApp** is a modern Android application that functions as a **business directory**, allowing users to browse and register companies grouped into four categories:
 
 - 🏭 Industry  
 - 🎭 Entertainment  
 - 🎓 Education  
 - 🛠️ Services
 
-
+---
 
 ## 🧩 Key Features
 
@@ -38,7 +39,7 @@ The BusinessDirectoryApp is a modern Android application that functions as a **b
   - Phone number
   - Website link
 - 🔹 **Search bar** that filters companies by name within the current category
-- 🔹 **Real-time location tracking** – shows a toast message if a company is within 5000 meters of the user
+- 🔹 **Real-time location tracking** – shows a toast message if a company is within **50 meters** of the user
 
 ---
 
@@ -51,18 +52,19 @@ The BusinessDirectoryApp is a modern Android application that functions as a **b
 | ObjectBox            | Local database for offline persistence |
 | Retrofit             | Communication with web services        |
 | Google Location API  | Accessing device location              |
-| XML / Material Design| UI Layouts and styling                |
+| XML / Material Design| UI Layouts and styling                 |
 
 ---
 
 ## 📸 Screenshots
 
-> 📍 *Preview how the application looks in action*
+> 📍 *Preview of how the application looks in action*
+
+### 📂 General Interface
 
 | Main Screen (Tabs) | Add Company Form | Company List |
 |--------------------|------------------|--------------|
 | ![Main](picures/1.jpg) | ![Form](picures/2.jpg) | ![List](picures/3.jpg) |
-
 
 ### 🗂️ Category Tabs
 
@@ -74,23 +76,44 @@ The BusinessDirectoryApp is a modern Android application that functions as a **b
 |----------------|------------------------------|
 | ![Education](picures/7.jpg) | ![Notification](picures/8.jpg) |
 
+---
+
 ## 🎥 Demo Video
 
 Watch a short demonstration of the application in action:
 
 👉 [Click here to watch the demo video](https://github.com/Ivana-Gerchakova/BusinessDirectoryApp/raw/main/Demo%20video-app.mp4)
 
+---
 
-🔗 [Click here to watch the demo video](PUT_YOUR_LINK_HERE)
+## 📥 Full Project Download
+
+Due to file size limitations, the full Android Studio project cannot be hosted directly on GitHub.
+
+🔗 **Download the complete project folder from Google Drive**:  
+👉 [BusinessDirectoryApp – Google Drive](https://drive.google.com/drive/folders/1reKHHIo1iXXYCjvpuOX-Zwud41_V6gb1?usp=sharing)
+
+This includes:
+- Complete source code
+- Project resources
+- Demo video and screenshots
 
 ---
 
 ## 🚀 How to Run the App
 
-To try the app on your own machine:
+To try the app locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/BusinessDirectoryApp.git
+1. Download the project folder from Google Drive:  
+   👉 [BusinessDirectoryApp – Google Drive](https://drive.google.com/drive/folders/1reKHHIo1iXXYCjvpuOX-Zwud41_V6gb1?usp=sharing)
+
+2. Unzip and open the project in Android Studio.
+
+3. Make sure to:
+   - Sync Gradle
+   - Enable Internet and Location permissions in your device/emulator
+   - Include your own `google-services.json` file in the `/app` directory (if needed)
+
+4. Run the application on a real device or emulator.
 
 
