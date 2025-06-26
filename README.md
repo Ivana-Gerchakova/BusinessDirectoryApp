@@ -1,5 +1,20 @@
 # BusinessDirectoryApp
 
+## 📝 What is BusinessDirectoryApp?
+
+**BusinessDirectoryApp** is a mobile Android application designed as a simple yet powerful **business directory tool**. It enables users to:
+
+- **Discover local businesses** based on predefined categories
+- **Register new companies** with detailed information including name, address, contact details, and geolocation
+- **Search for companies** by name within specific categories
+- **Get real-time proximity alerts** when a business is located within 50 meters of the user
+
+This app is ideal for:
+- Individuals looking to find local services or educational centers
+- Small business owners who want to be included in a categorized listing
+- Students and developers learning how to build mobile apps with features like Firebase integration, local storage (ObjectBox), and geolocation using Java and Android Studio
+
+
 📱 **Android Mobile Application – Business Directory**
 
 This application was developed as a **master's project** for the subject  
